@@ -1,7 +1,7 @@
-<B> Hi There, </B>
+<H1> Hi There 👋🏼 </H1>
 
 
-- 👋 Hi, I’m Manish Bhatt.
+
 - 👀 I’m interested in Diving deep into the Data World.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Open Source Projects related to EDA and Data Analytics.
